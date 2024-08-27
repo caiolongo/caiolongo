@@ -2,7 +2,8 @@
 
 Bem vindo ao meu GitHub. Aqui quero compartilhar com vocês meu conhecimento e toda a minha evolução.
 <br>
-Minhas tecnologias favoritas são: JS, TS, React e C#.
+Converse comigo sobre Python!
+Estou aprendendo Rust também.
 <br>
 Faço joguinhos no meu tempo livre. Utilizo Aseprite e o Game Maker.
 
