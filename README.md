@@ -1,13 +1,12 @@
 # Olá 👋
 
-Bem vindo ao meu GitHub. Aqui quero compartilhar com vocês meu conhecimento e toda a minha evolução.
+Bem vindo ao meu GitHub.
+Sou um desenvolvedor Júnior e trabalho com: Perl, Typescript/Javascript, React, MySQL/PostgreSQL.
 <br>
-Converse comigo sobre Python!
-Estou aprendendo Rust também.
+Quero aprender:
 <br>
 Faço joguinhos no meu tempo livre. Utilizo Aseprite e o Game Maker.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolongo&layout=compact)
 ---
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
