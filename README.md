@@ -2,7 +2,7 @@
 
 Sou desenvolvedor júnior. Meu foco é **TypeScript/JavaScript** (com **React** no front-end) e **C# com .NET**, que é onde quero crescer.
 
-Profissionalmente já trabalhei com **Perl** e **PHP**, além de **MySQL**, **PostgreSQL** e **MongoDB**. No dia a dia uso **Linux**/**MacOS** e **Docker**.
+Profissionalmente já trabalhei com **Javascript**, **Typescript**, **Python**,  **Perl** e **PHP**, além de **MySQL**, **PostgreSQL** e **MongoDB**. No dia a dia uso **Linux**/**MacOS** e **Docker**.
 
 Nas horas vagas gosto de fazer jogos e criar engines específicas para cada uso com **C#**, **XNA**, **FNA** e **MonoGame**.
 
@@ -16,7 +16,7 @@ Nas horas vagas gosto de fazer jogos e criar engines específicas para cada uso 
 
 ### 🧰 Ferramentas e bancos
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
 
 ### 💼 Também trabalhei com
 
