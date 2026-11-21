@@ -1,6 +1,6 @@
 # Olá, eu sou o Caio 👋
 
-Sou desenvolvedor júnior. Meu foco é **TypeScript/JavaScript** (com **React** no front-end) e **C# com .NET**, que é onde quero crescer.
+Sou desenvolvedor FullStack. Meu foco é **TypeScript/JavaScript** (com **React** no front-end) e **C# com .NET**, que é onde quero crescer.
 
 Profissionalmente já trabalhei com **Javascript**, **Typescript**, **Python**,  **Perl** e **PHP**, além de **MySQL**, **PostgreSQL** e **MongoDB**. No dia a dia uso **Linux**/**MacOS** e **Docker**.
 
